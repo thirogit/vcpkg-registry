@@ -1,0 +1,12 @@
+{
+  "name": "rcf",
+  "version": "2.2.0.0",
+  "description": "RCF (Remote Call Framework) is a cross-platform interprocess communication framework for C++",
+  "homepage": "https://www.deltavsoft.com/",
+  "dependencies" :[
+    {
+      "name": "boost",
+      "version>=": "1.83.0"
+    }
+  ]
+}
